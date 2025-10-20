@@ -1,6 +1,13 @@
-import { ParamListBase } from '@react-navigation/native';
+import { ParamListBase } from "@react-navigation/native";
 
 export interface RootStackParamList extends ParamListBase {
-  ViaCEP: undefined;
-  Histórico: undefined;
+  Orientation: undefined;
+  FlexDirection: undefined;
+  NamesList: undefined;
+  Youtube: undefined;
+  Call: undefined;
+  Instagram: undefined;
+  Contacts: undefined;
+  Gallery: undefined;
+  VideoRecorder: undefined;
 }

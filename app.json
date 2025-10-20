@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Listas 3 e 4",
+    "slug": "react-native-listas-3e4",
+    "scheme": "listas34",
+    "orientation": "default",
+    "platforms": ["ios", "android", "web"],
+    "newArchEnabled": false,
+    "plugins": ["expo-contacts","expo-image-picker","expo-screen-orientation","expo-av"]
+  }
+}
