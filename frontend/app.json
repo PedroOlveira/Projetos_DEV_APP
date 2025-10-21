@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "App Scholar",
+    "slug": "app-scholar",
+    "scheme": "appscholar",
+    "orientation": "default",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
